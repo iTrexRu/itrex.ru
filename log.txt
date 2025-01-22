@@ -1,0 +1,77 @@
+
+Image elements do not have explicit width and height
+Set an explicit width and height on image elements to reduce layout shifts and improve CLS. Learn how to set image dimensionsCLS
+URL
+itrex.ru 1st Party
+Бюро переводов iTrex
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/04/itrex-logo_rgb_ls_full_red-300…" alt="Бюро переводов iTrex">
+…04/itrex-logo_rgb_ls_full_red-300x267-1-e159….jpg(itrex.ru)
+Письменный<br/> перевод
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/01/t2.png" alt="Письменный<br/>
+…01/t2.png(itrex.ru)
+Локализация<br/> сайтов и ПО
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/01/t6.png" alt="Локализация<br/>
+…01/t6.png(itrex.ru)
+Нотариальные<br/> переводы
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/01/p4.png" alt="Нотариальные<br/>
+…01/p4.png(itrex.ru)
+Срочные <br/>переводы
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/01/p7.png" alt="Срочные <br/>
+…01/p7.png(itrex.ru)
+Юридический <br/>перевод
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/01/p2.png" alt="Юридический <br/>
+…01/p2.png(itrex.ru)
+Медицинские <br/> переводы
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/01/p9.png" alt="Медицинские <br/>
+…01/p9.png(itrex.ru)
+Avoid large layout shifts 3 layout shifts found
+These are the largest layout shifts observed on the page. Each table item represents a single layout shift, and shows the element that shifted the most. Below each item are possible root causes that led to the layout shift. Some of these layout shifts may not be included in the CLS metric value due to windowing. Learn how to improve CLSCLS
+Element
+Layout shift score
+                ПЕРЕВОД ЮРИДИЧЕСКИХ ТЕКСТОВ И ДОКУМЕНТОВ Хотите избежать ошибо…
+<div class="container">
+0.034
+…css/head-4495e99….css(itrex.ru)
+A late network request adjusted the page layout
+…js/body-1503c56….js(itrex.ru)
+A late network request adjusted the page layout
+…jquery/jquery.min.js?ver=3.7.1(itrex.ru)
+A late network request adjusted the page layout
+Хотите избежать ошибок и получить перевод документа, презентации или сайта, кот…
+<div class="wpb_column vc_column_container vc_col-sm-12">
+0.024
+div#lightbox > div.lb-outerContainer > div.lb-container > img.lb-image
+<img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAIC…" alt="">
+Media element lacking an explicit size
+…css/head-4495e99….css(itrex.ru)
+A late network request adjusted the page layout
+…js/body-1503c56….js(itrex.ru)
+A late network request adjusted the page layout
+Нажимая кнопку, вы соглашаетесь с политикой обработки персональных данных
+<div class="agree-text">
+0.000
+Срочные <br/>переводы
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/01/p7.png" alt="Срочные <br/>
+Media element lacking an explicit size
+Бюро переводов iTrex
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/04/itrex-logo_rgb_ls_full_red-300…" alt="Бюро переводов iTrex">
+Media element lacking an explicit size
+Юридический <br/>перевод
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/01/p2.png" alt="Юридический <br/>
+Media element lacking an explicit size
+Письменный<br/> перевод
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/01/t2.png" alt="Письменный<br/>
+Media element lacking an explicit size
+Локализация<br/> сайтов и ПО
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/01/t6.png" alt="Локализация<br/>
+Media element lacking an explicit size
+Медицинские <br/> переводы
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/01/p9.png" alt="Медицинские <br/>
+Media element lacking an explicit size
+Нотариальные<br/> переводы
+<img class="b-lazy b-loaded" src="https://itrex.ru/wp-content/uploads/2020/01/p4.png" alt="Нотариальные<br/>
+Media element lacking an explicit size
+…css/style.css(itrex.ru)
+A late network request adjusted the page layout
+…css/style.css(itrex.ru)
+A late network request adjusted the page layout
